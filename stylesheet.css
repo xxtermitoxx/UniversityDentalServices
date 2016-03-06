@@ -1,0 +1,352 @@
+/* Copperplate Gothic Bold
+   Copperplate Gothic Light */
+
+body *,body {
+    text-decoration: none;
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.yt-video{
+    margin: 5px auto;
+    display: block;
+    text-align: center;
+}
+
+.social-icon{
+
+    width:15%;
+    height:15%;
+    margin: 2px auto;
+    text-align: center;
+    display: block;
+}
+
+.social-icon1{
+    float:left;
+    width:15%;
+    height:15%;
+    margin: 2px auto;
+    display: block;
+    text-align: center;
+    z-index: 10;
+}
+
+.chair-div{
+    padding: 4px;
+    height: 90%;
+    width: 90%;
+    margin: 0px auto;
+    display:block;
+    text-align: center;
+}
+
+.chair-pic{
+    padding: 4px;
+    height: 60%;
+    width: 60%;
+    margin: 0px auto;
+    display:block;
+    text-align: center;
+}
+
+.list-navigation{
+    text-decoration: none;
+    list-style-type: none;
+    }
+
+.page-nav{
+    list-style-type: none;
+    text-align: center;
+    font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
+    font-size: 155%;
+    display: block;
+    padding: 7px 23px;
+    margin: 4px auto;
+    border-style: solid;
+    width: 70%;
+    border-width: 1px;
+    border-color: dimgray;
+    border-radius: 7px;
+    background-color:#9ec8f2;
+    color:#ffffff;
+    text-shadow: 2px -2px 3px rgba(0, 0, 0, 1);
+  -webkit-box-shadow: 7px -5px 6px -3px rgba(0,0,0,0.39);
+-moz-box-shadow: 7px -5px 6px -3px rgba(0,0,0,0.39);
+box-shadow: 7px -5px 6px -3px rgba(0,0,0,0.39);
+}
+
+.page-nav:hover {
+    background-color: aqua;
+    text-align: center;
+    font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
+    color:#5fffe7;
+    margin: 4px auto;
+    border-style: solid;
+    width: 70%;
+    padding: 7px 23px;
+    border-width: 1px;
+    border-color: dimgray;
+    border-radius: 7px;
+    background-color:#9ec8f2;
+    text-shadow: 2px -2px 3px rgba(0, 0, 0, 1);
+    -webkit-box-shadow: inset 3px 3px 40px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: inset 3px 3px 40px 0px rgba(0,0,0,0.75);
+box-shadow: inset 3px 3px 40px 0px rgba(0,0,0,0.75);
+}
+
+.page-nav-current{
+    text-decoration: none;
+    text-align: center;
+    font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
+    font-size: 25px;
+    display: block;
+    padding: 10px 23px;
+    margin: 4px auto;
+    border-style: solid;
+    width: 70%;
+    border-width: 1px;
+    border-color: dimgray;
+    border-radius: 7px;
+    background-color:#9ec8f2;
+    color:#5fffe7;
+    text-shadow: 2px -2px 3px rgba(0, 0, 0, 1);
+    -webkit-box-shadow: inset 3px 3px 40px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: inset 3px 3px 40px 0px rgba(0,0,0,0.75);
+box-shadow: inset 3px 3px 40px 0px rgba(0,0,0,0.75);
+}
+
+.page-nav-services{
+    text-decoration: none;
+    text-align: center;
+    font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
+    font-size: 19px;
+    display: block;
+    padding: 10px 23px;
+    margin: 4px auto;
+    border-style: solid;
+    width: 70%;
+    border-width: 1px;
+    border-color: dimgray;
+    border-radius: 7px;
+    background-color:#9ec8f2;
+    color:#ffffff;
+    text-shadow: 2px -2px 3px rgba(0, 0, 0, 1);
+  -webkit-box-shadow: 7px -5px 6px -3px rgba(0,0,0,0.39);
+-moz-box-shadow: 7px -5px 6px -3px rgba(0,0,0,0.39);
+box-shadow: 7px -5px 6px -3px rgba(0,0,0,0.39);
+}
+
+.page-nav-services:hover{
+    background-color: aqua;
+    text-align: center;
+    font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
+    color:#5fffe7;
+    margin: 4px auto;
+    border-style: solid;
+    width: 70%;
+    padding: 10px 23px;
+    border-width: 1px;
+    border-color: dimgray;
+    border-radius: 7px;
+    background-color:#9ec8f2;
+    text-shadow: 2px -2px 3px rgba(0, 0, 0, 1);
+    -webkit-box-shadow: inset 3px 3px 40px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: inset 3px 3px 40px 0px rgba(0,0,0,0.75);
+box-shadow: inset 3px 3px 40px 0px rgba(0,0,0,0.75);
+}
+
+.dentist-working{
+    float: left;
+    margin: 0 5px 0 0;
+}
+
+.main-header{
+    font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
+    font-size: 220%;
+    padding: 2px 5px 2px 7px;
+    color: #043096;
+    text-shadow: 2px -2px 3px rgba(0, 0, 0, 1);
+    border-style: solid;
+    border-color: blue;
+    border-radius: 5px;
+    border-color: #c0e3fb;
+    border-right-color: dimgray;
+    border-top-color: dimgray;
+    background-image: url(noicse-textures/small-noise-60x60.png);
+    margin: 7px 7px 0 7px;
+
+}
+
+
+h3,h4{
+    font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 22px;
+    margin: 0 0 0 15px;
+    color: #043096;
+}
+
+#address-div{
+    font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 22px;
+    margin: 0 0 0 15px;
+    color: #043096;
+    float: left;
+    margin: 25px 25px;
+}
+
+.working-hours{
+    float:left;
+    width: 48%;
+}
+
+.numbers{
+    color:red;
+}
+
+.contacts{
+    width: 48%;
+    float:left;
+    clear:left;
+}
+
+.hospital{
+    float: left;
+    width: 48%;
+}
+
+.h2-prices,h2-contacts{
+    color: #043096; 
+}
+
+
+
+h3{
+    font-size: 90%;
+}
+h4{
+    font-size: 80%;
+}
+
+h2,p{margin:10px 12px 10px 12px;}
+
+h2,#before-after,#before-after2 {
+    font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
+	font-size: 200%;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 22px;
+    color: darkblue;
+    
+}
+
+p {
+    font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
+	font-size: 180%;
+    color: darkblue;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 22px;
+}
+
+.logo-image{
+    display: block;
+    margin: 15px 15px 0 15px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 5px;
+    border-width: 6px;
+    font-size: 0;
+}
+
+.container1-left-background{
+    width: 17% ;
+    height: 660px ;
+    float: left;
+}
+
+.container2-left-main{
+    width: 20%;
+    height: 100%    ;
+    margin: 0;
+    padding: 5px;
+    float: left;
+    border-style: solid;
+    border-color: #c0e3fb;
+    border-right-color: dimgray;
+    border-top-color: dimgray;
+    border-radius: 7px;
+    background-image: url("noicse-textures/img-noise-60x60.png");
+}
+
+.container3-content{
+    width: 40%;
+    height: 100%;
+    margin: 0;
+    padding: 5px 5px 0 5px;
+    float: left;
+    border-style: solid;
+    border-color: #c0e3fb;
+    border-right-color: dimgray;
+    border-top-color: dimgray;
+    border-radius: 7px;
+    background-image: url("noicse-textures/big-noise-60x60.png");
+}
+
+.container3-1-content{
+    margin: 0 7px 7px 7px;
+    padding: 2px;
+    float: left;
+    border-style: solid;
+    border-color: #c0e3fb;
+    border-radius: 7px;
+    border-right-color: dimgray;
+    border-top-color: dimgray;
+    background-image: url("noicse-textures/small-noise-60x60.png");
+}
+
+#before-after{
+    color: #043096;
+    float: left;
+    margin: 0 0 0 5%;
+}
+#before-after2{
+    color: #043096;
+    float: left;
+    margin: 0 0 0 30%
+}
+
+
+.container3-2-content{
+    margin: 3px 7px 7px 7px;
+    float: left;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    display: block;
+    font-size: 0;
+
+}
+
+.container4-right-background{
+    width: 30%;
+    height: 660px;
+    float: left;
+}
+
+.footer{
+    height: 100%;
+    width: 100%;
+    padding: 3px;
+    float: left;
+    clear: left;
+}

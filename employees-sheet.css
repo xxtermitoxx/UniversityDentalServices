@@ -1,0 +1,51 @@
+#dr-radeva{
+    float: right;
+    width: 26%;
+    height: 26%;
+    margin: 12px 5px 0 5px;
+    
+}
+
+#dr-koher{
+    float: left;
+    width: 26%;
+    height: 26%;
+    margin: 12px 5px 0 5px;
+}
+
+h2, b,.fig-caption{
+    color:#363b8c;
+}
+
+.staff{
+    height: 29%;
+    width: 29%;
+    float: left;
+    margin: 25px 10px auto;
+    text-align: center;
+}
+
+.staff-imgs{
+    height: 80%;
+    width: 80%;
+}
+
+.h2-employees,p{margin:10px 12px 10px 12px;}
+
+.h2-employees {
+    font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 22px;
+}
+
+.p-employees{
+    font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
+	font-size: 15px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 22px;
+}
